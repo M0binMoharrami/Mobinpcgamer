@@ -63,9 +63,9 @@ My code philosophy: *clarity, consistency, and zero unnecessary magic.*
 ---
 
 ## 📫 Contact
-- 📧 **Email:** [mobin.dev.work@gmail.com](mailto:mobin.dev.work@gmail.com)  
+- 📧 **Email:** [mmoharrami2008gmail.com](mailto:mobin.dev.work@gmail.com)  
 - 💬 **Discord:** YourDiscord#0000  
-- 💬 **Telegram:** [t.me/YourTelegramHandle](https://t.me/YourTelegramHandle)
+- 💬 **Telegram:** [t.me/G0DM0bin](https://t.me/G0DM0bin)
 
 ---
 
