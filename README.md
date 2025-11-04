@@ -56,8 +56,8 @@ My code philosophy: *clarity, consistency, and zero unnecessary magic.*
 ## 📈 Developer Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mobinpcgamer&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mobinpcgamer&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M0binMoharrami&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M0binMoharrami&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ---
