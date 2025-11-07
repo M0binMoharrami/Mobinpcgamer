@@ -1,72 +1,111 @@
-# 👋 Hi — I’m Mobin
+<a name="top"></a>
 
-I’m a full-stack developer with a practical focus on **server-side engineering** and **desktop application development**.  
-I work primarily with **C# (.NET)**, **PHP**, and **XAML**, building robust, secure, and efficient systems that perform reliably at scale.  
-My code philosophy: *clarity, consistency, and zero unnecessary magic.*
+[Me](#me) • [About](#about-me) • [Skills](#skills) • [Projects](#projects) • [Stats](#github-stats) • [Contact](#contact)
 
----
+<h1 align="center">🎮 Hey, I'm Mobin 🎮</h1>
+<h3 align="center">💻 Game Mod Developer & Automation Enthusiast 💻</h3>
 
-## ⚙️ Skill Overview
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M0binMoharrami&label=Profile%20Views&color=blueviolet&style=flat" alt="Mobin" />
+</p>
 
-| Technology / Area | Interest ❤️ | Proficiency 💼 | Description |
-|-------------------|-------------|----------------|--------------|
-| **C# (.NET)** | 98% | 95% | Core of my daily work — backend systems, APIs, and desktop utilities using .NET 6+ and WPF/XAML. |
-| **XAML (WPF / UWP / MAUI)** | 90% | 85% | UI/UX layer for my desktop tools — responsive, functional, and clean interfaces. |
-| **PHP (Backend / API Development)** | 88% | 92% | Backend systems, authentication APIs, SMS-based verification, and database logic. |
-| **MySQL / PostgreSQL** | 85% | 88% | Database schema design, optimization, and secure query handling. |
-| **Rust (Oxide Framework)** | 80% | 75% | Plugin development and game-server extensions, focusing on performance and modularity. |
-| **Lua (MTA / FiveM)** | 78% | 82% | Game scripting, UI integration, and event-driven logic. |
-| **.NET Libraries / Windows Apps** | 90% | 90% | Application automation, task scheduling, service handling, and background processes. |
-| **API Design & Integration** | 95% | 93% | RESTful architecture, secure token auth, and inter-service communication. |
-| **Security & Encryption (AES, Token Systems)** | 85% | 87% | Credential encryption, secure verification systems, and session management. |
-| **DevOps / CI/CD** | 70% | 65% | GitHub Actions, Docker containers, and automated builds for consistent delivery. |
+<p align="center">
+  <a href="https://t.me/G0DM0BiN" target="_blank"><img src="https://img.shields.io/badge/Telegram-@G0DM0BiN-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://github.com/M0binMoharrami"><img src="https://img.shields.io/badge/GitHub-M0binMoharrami-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:mmoharrami2008@gmail.com"><img src="https://img.shields.io/badge/Email-mmoharrami2008@gmail.com-informational?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 ---
 
-## 🧠 Focus Areas
-- Scalable backend services and authentication systems.  
-- Secure data handling and encrypted credential verification.  
-- Server-side tools and Rust plugin frameworks.  
-- High-performance desktop applications with XAML-based UIs.  
-- API-driven architecture and integration workflows.
+<a name="me"></a>
+
+## 👤 Me
+
+- 🔎 **Known as:** Mobin  
+- 🗺️ **Location:** Urmia/Iran  
+- 💻 **Main Focus:** Game Mod Development & Automation  
+- ⭐ **Journey:** Started coding for games and mods in my early teens. Passionate about creating efficient, maintainable plugins for Oxide/uMod.  
+- 🛠️ **Currently Working With:** DarkGaming – developing plugins, AntiCheat systems, and game launchers. [dark-game.ir](https://dark-game.ir)  
+- 😂 **Fun Fact:** I love experimenting with automation and game logic systems.  
 
 ---
 
-## 🛠 Environment & Tools
-- **IDE:** Visual Studio 2022 / VS Code  
-- **Version Control:** Git & GitHub  
-- **Build Systems:** MSBuild, Composer  
-- **Testing:** NUnit, PHPUnit  
-- **Containerization:** Docker for isolated dev environments  
+<a name="about-me"></a>
+
+## 💡 About Me
+
+* 🔧 I create **game mods and automation plugins** that are optimized and reliable.  
+* 🧠 Currently expanding knowledge in **C#**, **Lua**, and **.NET development**.  
+* 🎮 Focused on **Oxide/uMod platform** for games like Rust, automating gameplay and server management.  
+* 🐧 Comfortable developing on **Windows** and **Linux** environments.  
+* ⚙️ Interested in **Fullstack tools, automation scripts, APIs, and server-side optimizations**.  
 
 ---
 
-## 📂 Highlighted Projects
-- **Server Management Suite:**  
-  C# backend with XAML admin panel — monitors, schedules, and manages game servers.  
+<a name="skills"></a>
 
-- **Auth & Verification API (PHP):**  
-  Secure AES-encrypted login system with SMS-based two-factor authentication.  
+## 🧰 Skills & Tools
 
-- **Rust+ Integration Layer:**  
-  Middleware service that connects Rust game servers with external APIs and databases.  
+<p align="center">
+  <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" /></a>
+  <a href="https://umod.org/"><img src="https://img.shields.io/badge/Oxide/uMod-FF6600?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
+  <br />
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+  <br />
+  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/"><img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/"><img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API"><img src="https://img.shields.io/badge/API_Development-00A4EF?style=for-the-badge&logoColor=white" /></a>
+</p>
 
----
-
-## 📈 Developer Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M0binMoharrami&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M0binMoharrami&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-
-## 📫 Contact
-- 📧 **Email:** [mmoharrami2008gmail.com](mailto:mobin.dev.work@gmail.com)  
-- 💬 **Discord:** YourDiscord#0000  
-- 💬 **Telegram:** [t.me/G0DM0bin](https://t.me/G0DM0bin)
 
 ---
 
-> _“Precision in logic, elegance in code — that’s the art of engineering.”_
+<a name="projects"></a>
+
+## 🚀 Projects
+
+- **LibraryApp** – Full-featured management system for tracking books and students. (C#, .NET, MySQL, SQLite)  
+- **Game Plugins** – Multiple Lua & C# plugins for Rust servers on Oxide/uMod, including automation scripts and gameplay enhancements.  
+- **Automation Tools** – Scripts and small applications to optimize server management, logging, and event handling.  
+- **DarkGaming Projects** – Custom plugins, systems, and enhancements for DarkGaming servers.  
+- **AntiCheat System** – Advanced anti-cheat plugin for Rust, designed to detect and prevent cheating on servers.  
+- **Game Launcher** – Custom game launcher for Rust servers with integrated updates, patching, and server connection management.
+
+---
+
+<a name="github-stats"></a>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M0binMoharrami&show_icons=true&theme=dark&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0binMoharrami&layout=compact&theme=dark"/>
+</p>
+
+---
+
+<a name="contact"></a>
+
+## 🔗 Contact
+
+<p align="center">
+  <a href="https://t.me/G0DM0BiN" target="_blank"><img src="https://img.shields.io/badge/Telegram-@G0DM0BiN-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="mailto:mmoharrami2008@gmail.com"><img src="https://img.shields.io/badge/Email-mmoharrami2008@gmail.com-informational?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+<p align="center">
+  “Code smart, automate everything, and always keep learning.”
+</p>
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" alt="Back to the Top"/>
+  </a>
+</p>
